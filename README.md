@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NVpandu
 - 👀 I’m interested in c++ and python and java
-- 🌱 I’m currently learning c
+- 🌱 I’m currently learning c/c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me continue walking and then break
 
